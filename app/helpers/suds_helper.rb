@@ -1,0 +1,2 @@
+module SudsHelper
+end

@@ -1,0 +1,2 @@
+class SudsController < ApplicationController
+end
